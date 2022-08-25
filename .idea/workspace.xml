@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0be2a20-ebd7-4abd-b5e5-2c76c6cfefac" name="Changes" comment="Created getter, setter,getAgeCrieteria methods for age and name,">
+    <list default="true" id="b0be2a20-ebd7-4abd-b5e5-2c76c6cfefac" name="Changes" comment="called the methods in VoterImpl.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/election/Voter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/election/Voter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/election/VoterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/election/VoterImpl.java" afterDir="false" />
     </list>
@@ -32,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="VoterImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.election.VoterImpl" />
@@ -119,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661426215618</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="called the methods in VoterImpl.java">
+      <created>1661426708506</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661426708506</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +148,7 @@
     <MESSAGE value="Created VoterImpl.java class" />
     <MESSAGE value="Declared the Attributes to the Voter class." />
     <MESSAGE value="Created getter, setter,getAgeCrieteria methods for age and name," />
-    <option name="LAST_COMMIT_MESSAGE" value="Created getter, setter,getAgeCrieteria methods for age and name," />
+    <MESSAGE value="called the methods in VoterImpl.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="called the methods in VoterImpl.java" />
   </component>
 </project>

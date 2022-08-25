@@ -9,11 +9,8 @@ package com.election;
 public class VoterImpl {
     public static void main(String[] args) {
         Voter voter = new Voter();
-        System.out.println(voter.getName());
-        System.out.println(voter.getAge());
         voter.setName("Revathi");
-        voter.setAge(27);
-        System.out.println(voter.getAgeCrieteria());
-
+        voter.setAge(-16);
+        System.out.println(voter.getAgeCriteria());
     }
 }
