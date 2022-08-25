@@ -31,12 +31,12 @@ public class Voter {
 
     public String getAgeCrieteria() {
         if (age >= 18) {
-            return this.setName(String name) + "Is Eligible to Vote";
+            return name + " " +"Is Eligible to Vote";
         }
         if (age <= 18) {
-            return this.setName(String name) + "Is Not Eligible to Vote";
+            return name + " " + "Is Not Eligible to Vote";
         } else {
-            return this.setName(String name) + "Age Can't Be Negative or Zero";
+            return name + " " + "Age Can't Be Negative or Zero";
         }
     }
 }

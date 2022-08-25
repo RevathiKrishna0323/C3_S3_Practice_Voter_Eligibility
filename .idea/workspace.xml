@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0be2a20-ebd7-4abd-b5e5-2c76c6cfefac" name="Changes" comment="Declared the Attributes to the Voter class.">
+    <list default="true" id="b0be2a20-ebd7-4abd-b5e5-2c76c6cfefac" name="Changes" comment="Created getter, setter,getAgeCrieteria methods for age and name,">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/election/Voter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/election/Voter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/election/VoterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/election/VoterImpl.java" afterDir="false" />
     </list>
@@ -48,6 +48,26 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="VoterImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.election.VoterImpl" />
+      <module name="C3_S3_Practice_Voter_Eligibility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.election.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VoterImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661425882172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created getter, setter,getAgeCrieteria methods for age and name,">
+      <created>1661426215618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661426215618</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +139,7 @@
     <MESSAGE value="Created Voter.java class" />
     <MESSAGE value="Created VoterImpl.java class" />
     <MESSAGE value="Declared the Attributes to the Voter class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Declared the Attributes to the Voter class." />
+    <MESSAGE value="Created getter, setter,getAgeCrieteria methods for age and name," />
+    <option name="LAST_COMMIT_MESSAGE" value="Created getter, setter,getAgeCrieteria methods for age and name," />
   </component>
 </project>
